@@ -6,7 +6,7 @@ I solve problems regularly to strengthen my Data Structures & Algorithms knowled
 and improve problem-solving skills for coding interviews and competitive programming.
 
 ---
-
+PROFILE: https://leetcode.com/u/pranavdhanabalan/
 ## 📊 Progress
 
 - 💻 Language Used: C++
