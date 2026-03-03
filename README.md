@@ -34,3 +34,19 @@ I actively solve LeetCode problems to:
 
 ---
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+<!---LeetCode Topics End-->
