@@ -40,6 +40,7 @@ I actively solve LeetCode problems to:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0704-binary-search](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0704-binary-search/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -53,4 +54,8 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0476-number-complement](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0476-number-complement/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
