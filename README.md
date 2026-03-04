@@ -49,4 +49,8 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0476-number-complement](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0476-number-complement/) | Easy |
 <!---LeetCode Topics End-->
