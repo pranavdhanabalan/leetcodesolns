@@ -58,4 +58,8 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0704-binary-search/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3110-score-of-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3110-score-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
