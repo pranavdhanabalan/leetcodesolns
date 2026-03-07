@@ -57,6 +57,7 @@ I actively solve LeetCode problems to:
 | [0190-reverse-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0191-number-of-1-bits/) | Easy |
 | [0476-number-complement](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0476-number-complement/) | Easy |
+| [0693-binary-number-with-alternating-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
