@@ -54,6 +54,7 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
+| [0190-reverse-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0191-number-of-1-bits/) | Easy |
 | [0476-number-complement](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0476-number-complement/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
@@ -69,6 +70,7 @@ I actively solve LeetCode problems to:
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0191-number-of-1-bits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
