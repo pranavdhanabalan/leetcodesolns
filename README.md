@@ -59,6 +59,7 @@ I actively solve LeetCode problems to:
 | [0476-number-complement](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0476-number-complement/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ I actively solve LeetCode problems to:
 | ------- | ------- |
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0367-valid-perfect-square/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
