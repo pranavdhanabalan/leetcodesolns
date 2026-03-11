@@ -55,6 +55,7 @@ I actively solve LeetCode problems to:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0191-number-of-1-bits/) | Easy |
@@ -82,6 +83,7 @@ I actively solve LeetCode problems to:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0367-valid-perfect-square/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1486-xor-operation-in-an-array/) | Easy |
