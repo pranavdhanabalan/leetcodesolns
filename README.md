@@ -42,6 +42,7 @@ I actively solve LeetCode problems to:
 | ------- | ------- |
 | [0704-binary-search](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0704-binary-search/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@ I actively solve LeetCode problems to:
 | [1009-complement-of-base-10-integer](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
