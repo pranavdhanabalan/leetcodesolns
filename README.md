@@ -47,6 +47,7 @@ I actively solve LeetCode problems to:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3110-score-of-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3110-score-of-a-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -99,4 +101,12 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0724-find-pivot-index/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
