@@ -51,6 +51,7 @@ I actively solve LeetCode problems to:
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ I actively solve LeetCode problems to:
 | ------- | ------- |
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3110-score-of-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3110-score-of-a-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
