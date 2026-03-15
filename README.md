@@ -45,6 +45,7 @@ I actively solve LeetCode problems to:
 | [0977-squares-of-a-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2974-minimum-number-game](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2974-minimum-number-game/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
@@ -86,6 +87,7 @@ I actively solve LeetCode problems to:
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3110-score-of-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3110-score-of-a-string/) | Easy |
 ## Divide and Conquer
@@ -131,4 +133,5 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 <!---LeetCode Topics End-->
