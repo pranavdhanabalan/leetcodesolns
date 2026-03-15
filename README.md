@@ -47,6 +47,7 @@ I actively solve LeetCode problems to:
 | [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2974-minimum-number-game](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2974-minimum-number-game/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
+| [3024-type-of-triangle](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3024-type-of-triangle/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ I actively solve LeetCode problems to:
 | [0977-squares-of-a-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2974-minimum-number-game](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2974-minimum-number-game/) | Easy |
+| [3024-type-of-triangle](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3024-type-of-triangle/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +98,7 @@ I actively solve LeetCode problems to:
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0367-valid-perfect-square/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [3024-type-of-triangle](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3024-type-of-triangle/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
