@@ -52,6 +52,7 @@ I actively solve LeetCode problems to:
 | [2974-minimum-number-game](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2974-minimum-number-game/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3024-type-of-triangle](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3024-type-of-triangle/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ I actively solve LeetCode problems to:
 | [1486-xor-operation-in-an-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2652-sum-multiples/) | Easy |
 | [3024-type-of-triangle](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3024-type-of-triangle/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
