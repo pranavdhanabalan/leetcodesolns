@@ -106,6 +106,7 @@ I actively solve LeetCode problems to:
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0367-valid-perfect-square/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1952-three-divisors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1952-three-divisors/) | Easy |
 | [2652-sum-multiples](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2652-sum-multiples/) | Easy |
 | [3024-type-of-triangle](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -143,4 +144,12 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1672-richest-customer-wealth/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1952-three-divisors/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
