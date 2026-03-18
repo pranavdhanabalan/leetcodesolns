@@ -41,6 +41,7 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0049-group-anagrams/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -86,6 +87,7 @@ I actively solve LeetCode problems to:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0367-valid-perfect-square](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0704-binary-search/) | Easy |
 ## String
@@ -145,6 +147,7 @@ I actively solve LeetCode problems to:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Matrix
