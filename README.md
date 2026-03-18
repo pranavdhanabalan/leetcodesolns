@@ -46,6 +46,7 @@ I actively solve LeetCode problems to:
 | [1550-three-consecutive-odds](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2942-find-words-containing-character/) | Easy |
@@ -106,6 +107,7 @@ I actively solve LeetCode problems to:
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0367-valid-perfect-square/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1952-three-divisors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1952-three-divisors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2652-sum-multiples/) | Easy |
