@@ -40,6 +40,7 @@ I actively solve LeetCode problems to:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0049-group-anagrams/) | Medium |
 | [0704-binary-search](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -57,12 +58,14 @@ I actively solve LeetCode problems to:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0049-group-anagrams/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0049-group-anagrams/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2974-minimum-number-game](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2974-minimum-number-game/) | Easy |
@@ -88,6 +91,7 @@ I actively solve LeetCode problems to:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
