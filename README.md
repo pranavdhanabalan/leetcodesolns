@@ -96,6 +96,7 @@ I actively solve LeetCode problems to:
 | [0049-group-anagrams](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -123,6 +124,7 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2974-minimum-number-game](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2974-minimum-number-game/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
