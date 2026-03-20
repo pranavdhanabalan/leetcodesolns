@@ -114,6 +114,7 @@ I actively solve LeetCode problems to:
 | [0029-divide-two-integers](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0367-valid-perfect-square/) | Easy |
+| [0866-prime-palindrome](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0866-prime-palindrome/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1952-three-divisors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1952-three-divisors/) | Easy |
@@ -165,6 +166,7 @@ I actively solve LeetCode problems to:
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0866-prime-palindrome](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0866-prime-palindrome/) | Medium |
 | [1952-three-divisors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1952-three-divisors/) | Easy |
 ## Design
 | Problem Name | Difficulty |
