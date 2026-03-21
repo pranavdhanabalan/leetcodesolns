@@ -49,6 +49,7 @@ I actively solve LeetCode problems to:
 | [1550-three-consecutive-odds](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -138,6 +139,7 @@ I actively solve LeetCode problems to:
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0724-find-pivot-index/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
