@@ -120,6 +120,7 @@ I actively solve LeetCode problems to:
 | [1952-three-divisors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1952-three-divisors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2652-sum-multiples/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3024-type-of-triangle](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Simulation
