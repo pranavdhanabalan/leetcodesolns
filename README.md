@@ -103,6 +103,7 @@ I actively solve LeetCode problems to:
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2942-find-words-containing-character/) | Easy |
+| [3019-number-of-changing-keys](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3110-score-of-a-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
