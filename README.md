@@ -41,6 +41,7 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0001-two-sum/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0049-group-anagrams/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -91,6 +92,7 @@ I actively solve LeetCode problems to:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0367-valid-perfect-square](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0704-binary-search/) | Easy |
