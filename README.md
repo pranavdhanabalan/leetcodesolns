@@ -65,6 +65,7 @@ I actively solve LeetCode problems to:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0049-group-anagrams/) | Medium |
+| [0202-happy-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0202-happy-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -119,6 +120,7 @@ I actively solve LeetCode problems to:
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
+| [0202-happy-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0367-valid-perfect-square/) | Easy |
 | [0866-prime-palindrome](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0866-prime-palindrome/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -161,6 +163,7 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0202-happy-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Matrix
