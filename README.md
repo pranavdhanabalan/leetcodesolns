@@ -85,6 +85,7 @@ I actively solve LeetCode problems to:
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0191-number-of-1-bits/) | Easy |
+| [0338-counting-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0338-counting-bits/) | Easy |
 | [0476-number-complement](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0476-number-complement/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -185,4 +186,8 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
