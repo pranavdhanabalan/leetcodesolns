@@ -88,6 +88,7 @@ I actively solve LeetCode problems to:
 | [0190-reverse-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0338-counting-bits/) | Easy |
+| [0342-power-of-four](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0476-number-complement/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
@@ -127,6 +128,7 @@ I actively solve LeetCode problems to:
 | [0029-divide-two-integers](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
 | [0202-happy-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0202-happy-number/) | Easy |
+| [0342-power-of-four](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0367-valid-perfect-square/) | Easy |
 | [0866-prime-palindrome](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0866-prime-palindrome/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -194,4 +196,8 @@ I actively solve LeetCode problems to:
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0338-counting-bits/) | Easy |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
