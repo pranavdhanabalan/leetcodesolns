@@ -90,6 +90,7 @@ I actively solve LeetCode problems to:
 | [0338-counting-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0476-number-complement/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1009-complement-of-base-10-integer/) | Easy |
