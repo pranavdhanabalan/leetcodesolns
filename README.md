@@ -43,6 +43,7 @@ I actively solve LeetCode problems to:
 | [0001-two-sum](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0704-binary-search](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0704-binary-search/) | Easy |
@@ -76,6 +77,7 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0075-sort-colors/) | Medium |
 | [0389-find-the-difference](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -176,6 +178,7 @@ I actively solve LeetCode problems to:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0202-happy-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
