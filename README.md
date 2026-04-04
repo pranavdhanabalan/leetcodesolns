@@ -122,6 +122,7 @@ I actively solve LeetCode problems to:
 | [2942-find-words-containing-character](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3110-score-of-a-string/) | Easy |
+| [3707-equal-score-substrings](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3707-equal-score-substrings/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +164,7 @@ I actively solve LeetCode problems to:
 | [0724-find-pivot-index](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3707-equal-score-substrings](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3707-equal-score-substrings/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
