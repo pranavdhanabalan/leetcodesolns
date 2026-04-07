@@ -59,6 +59,7 @@ I actively solve LeetCode problems to:
 | [1929-concatenation-of-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1929-concatenation-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2942-find-words-containing-character](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2974-minimum-number-game/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
@@ -74,6 +75,7 @@ I actively solve LeetCode problems to:
 | [0389-find-the-difference](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0389-find-the-difference) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +85,7 @@ I actively solve LeetCode problems to:
 | [0977-squares-of-a-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1051-height-checker/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2974-minimum-number-game](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/3024-type-of-triangle/) | Easy |
 ## Bit Manipulation
@@ -175,6 +178,7 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
