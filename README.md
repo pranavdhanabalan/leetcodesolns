@@ -48,6 +48,7 @@ I actively solve LeetCode problems to:
 | [0303-range-sum-query-immutable](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0704-binary-search](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0724-find-pivot-index/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1051-height-checker/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -113,6 +114,7 @@ I actively solve LeetCode problems to:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0367-valid-perfect-square](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
