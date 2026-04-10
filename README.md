@@ -123,6 +123,7 @@ I actively solve LeetCode problems to:
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0392-is-subsequence/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0771-jewels-and-stones](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0771-jewels-and-stones/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -193,6 +194,7 @@ I actively solve LeetCode problems to:
 | [0075-sort-colors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0202-happy-number/) | Easy |
+| [0392-is-subsequence](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0392-is-subsequence/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Matrix
@@ -216,6 +218,7 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0338-counting-bits/) | Easy |
+| [0392-is-subsequence](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0392-is-subsequence/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
