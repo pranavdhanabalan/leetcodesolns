@@ -119,6 +119,7 @@ I actively solve LeetCode problems to:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -227,4 +228,8 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1051-height-checker/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
