@@ -51,6 +51,7 @@ I actively solve LeetCode problems to:
 | [0724-find-pivot-index](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1037-valid-boomerang](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1037-valid-boomerang/) | Easy |
 | [1051-height-checker](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1051-height-checker/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1550-three-consecutive-odds/) | Easy |
@@ -152,6 +153,7 @@ I actively solve LeetCode problems to:
 | [0342-power-of-four](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0367-valid-perfect-square/) | Easy |
 | [0866-prime-palindrome](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0866-prime-palindrome/) | Medium |
+| [1037-valid-boomerang](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1037-valid-boomerang/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -239,4 +241,8 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0020-valid-parentheses/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1037-valid-boomerang](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1037-valid-boomerang/) | Easy |
 <!---LeetCode Topics End-->
