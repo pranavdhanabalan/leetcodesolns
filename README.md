@@ -44,6 +44,7 @@ I actively solve LeetCode problems to:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0075-sort-colors/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -74,6 +75,7 @@ I actively solve LeetCode problems to:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0202-happy-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0389-find-the-difference) |
@@ -245,4 +247,8 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1037-valid-boomerang](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1037-valid-boomerang/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
