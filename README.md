@@ -48,6 +48,7 @@ I actively solve LeetCode problems to:
 | [0128-longest-consecutive-sequence](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0704-binary-search](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0704-binary-search/) | Easy |
@@ -158,6 +159,7 @@ I actively solve LeetCode problems to:
 | [0172-factorial-trailing-zeroes](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0509-fibonacci-number) |
@@ -225,10 +227,12 @@ I actively solve LeetCode problems to:
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1952-three-divisors/) | Easy |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0866-prime-palindrome/) | Medium |
 | [1952-three-divisors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1952-three-divisors/) | Easy |
 ## Design
