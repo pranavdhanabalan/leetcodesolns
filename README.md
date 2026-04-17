@@ -160,6 +160,7 @@ I actively solve LeetCode problems to:
 | [0202-happy-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0202-happy-number/) | Easy |
 | [0342-power-of-four](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0367-valid-perfect-square/) | Easy |
+| [0509-fibonacci-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0866-prime-palindrome/) | Medium |
 | [1037-valid-boomerang](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1037-valid-boomerang/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -239,10 +240,12 @@ I actively solve LeetCode problems to:
 | ------- |
 | [0338-counting-bits](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0509-fibonacci-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -259,4 +262,8 @@ I actively solve LeetCode problems to:
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
