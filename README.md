@@ -44,6 +44,7 @@ I actively solve LeetCode problems to:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -180,6 +181,7 @@ I actively solve LeetCode problems to:
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1929-concatenation-of-array/) | Easy |
@@ -224,6 +226,7 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1672-richest-customer-wealth/) | Easy |
