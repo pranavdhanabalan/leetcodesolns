@@ -134,6 +134,7 @@ I actively solve LeetCode problems to:
 | [0020-valid-parentheses](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0067-add-binary/) | Easy |
+| [0344-reverse-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0392-is-subsequence/) | Easy |
@@ -219,6 +220,7 @@ I actively solve LeetCode problems to:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0202-happy-number/) | Easy |
+| [0344-reverse-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0392-is-subsequence/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
