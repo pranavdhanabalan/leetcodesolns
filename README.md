@@ -48,6 +48,7 @@ I actively solve LeetCode problems to:
 | [0073-set-matrix-zeroes](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0164-maximum-gap](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0204-count-primes) |
@@ -94,6 +95,7 @@ I actively solve LeetCode problems to:
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0075-sort-colors/) | Medium |
+| [0164-maximum-gap](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0164-maximum-gap/) | Medium |
 | [0389-find-the-difference](https://github.com/pranavdhanabalan/leetcodesolns/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/1051-height-checker/) | Easy |
@@ -283,4 +285,12 @@ I actively solve LeetCode problems to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0796-rotate-string/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/pranavdhanabalan/leetcodesolns/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
